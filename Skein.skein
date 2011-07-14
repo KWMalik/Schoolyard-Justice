@@ -1,0 +1,936 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x2864b0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x2864b0" />
+  <item nodeId="node-0x2864b0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+Schoolyard Justice
+A poignant tale from the playground by David Celis
+Release 1 / Serial number 110709 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Playground
+You are standing in the playground of Lincoln Elementary School, where you are a student. Other children race around the school yard, brimming with the energy bestowed upon them from a school lunch composed almost entirely of starches and salt. A cacophony of screams and cries ring out across the twisted, metal spires of play structures that rise from the rubbery, plastic mulch. To the north lies the school and the relative safety of being indoors, where there are adults.
+
+A pair of double doors leads into the school.
+
+You can also see a group of children laughing at you here.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15">NO</temporary>
+    <children>
+      <child nodeId="node-0x2e2e00" />
+      <child nodeId="node-0x2e2510" />
+      <child nodeId="node-0x286500" />
+      <child nodeId="node-0x2e29a0" />
+      <child nodeId="node-0x2e3040" />
+      <child nodeId="node-0x2e22e0" />
+      <child nodeId="node-0x286550" />
+      <child nodeId="node-0x2867d0" />
+      <child nodeId="node-0x2e2290" />
+      <child nodeId="node-0x2e20f0" />
+      <child nodeId="node-0x2e21b0" />
+      <child nodeId="node-0x2e32e0" />
+      <child nodeId="node-0x2e30b0" />
+      <child nodeId="node-0x2e36d0" />
+      <child nodeId="node-0x2e3d60" />
+      <child nodeId="node-0x2e3cf0" />
+      <child nodeId="node-0x2e2740" />
+      <child nodeId="node-0x2e3200" />
+      <child nodeId="node-0x2e3190" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3190">
+    <command xml:space="preserve">look at pants</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e3200">
+    <command xml:space="preserve">take pants off</command>
+    <result xml:space="preserve">You take off the wet pair of pants.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3270" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3270">
+    <command xml:space="preserve">wear pants</command>
+    <result xml:space="preserve">You put on the wet pair of pants.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="57">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e2740">
+    <command xml:space="preserve">say hi to children</command>
+    <result xml:space="preserve">There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="28">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2ef0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2ef0">
+    <command xml:space="preserve">look at children</command>
+    <result xml:space="preserve">
+The children all appear to be laughing at you. Why? Several of them seem to be pointing to your lower half. You notice that one child is holding a small water pistol.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="28">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2f60">
+    <command xml:space="preserve">look north</command>
+    <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="28">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2fd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2fd0">
+    <command xml:space="preserve">look east</command>
+    <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e3cf0">
+    <command xml:space="preserve">look at mulch</command>
+    <result xml:space="preserve">
+Seriously, what is this stuff? Rubber? Plastic? One thing&apos;s for sure: it&apos;s not mulch. Didn&apos;t playground used to use sand? Is sand too expensive now or something? These are the questions, man.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="45">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e3d60">
+    <command xml:space="preserve">cry</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3dd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3dd0">
+    <command xml:space="preserve">cry children</command>
+    <result xml:space="preserve">I only understood you as far as wanting to cry.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e36d0">
+    <command xml:space="preserve">doors</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="29">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3b30" />
+      <child nodeId="node-0x2e3740" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3740">
+    <command xml:space="preserve">enter doors</command>
+    <result xml:space="preserve">(first opening the double doors)
+
+School Hallway
+This is the southern end of your school&apos;s main hallway. Various doors in this part of the hall lead to classrooms, but most are closed and locked for recess. One door here leads east to the administrative wing, where the principal, guidance counselors, and other faculty members have offices. Your classroom is further to the north.
+
+A pair of double doors leads back out to the Playground.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="29">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e37b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e37b0">
+    <command xml:space="preserve">doors</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="29">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3820" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3820">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Playground
+You are standing in the playground of Lincoln Elementary School, where you are a student. Other children race around the school yard, brimming with the energy bestowed upon them from a school lunch composed almost entirely of starches and salt. A cacophony of screams and cries ring out across the twisted, metal spires of play structures that rise from the rubbery, plastic mulch.
+
+A pair of double doors leads into the school.
+
+You can also see a group of children laughing at you here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="29">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3890" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3890">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="29">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3900" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3900">
+    <command xml:space="preserve">exits</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="29">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3970" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3970">
+    <command xml:space="preserve">where can i go</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="29">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e39e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e39e0">
+    <command xml:space="preserve">enter school</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="29">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3a50">
+    <command xml:space="preserve">entering the school</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="29">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3ac0">
+    <command xml:space="preserve">enter the school</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="28">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e3b30">
+    <command xml:space="preserve">enter school</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3ba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3ba0">
+    <command xml:space="preserve">enter the school</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3c10" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3c10">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">(first opening the double doors)
+
+School Hallway
+This is the southern end of your school&apos;s main hallway. Various doors in this part of the hall lead to classrooms, but most are closed and locked for recess. One door here leads east to the administrative wing, where the principal, guidance counselors, and other faculty members have offices. Your classroom is further to the north.
+
+A pair of double doors leads to the north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3c80" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3c80">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Playground
+You are standing in the playground of Lincoln Elementary School, where you are a student. Other children race around the school yard, brimming with the energy bestowed upon them from a school lunch composed almost entirely of starches and salt. A cacophony of screams and cries ring out across the twisted, metal spires of play structures that rise from the rubbery, plastic mulch.
+
+A pair of double doors leads to the north.
+
+You can also see a group of children laughing at you here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="18">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e30b0">
+    <command xml:space="preserve">look at school</command>
+    <result xml:space="preserve">
+Ah, good old Lincoln Elementary. You have so many memories of this place. See that water fountain near the doors? Your classmates just love to put their fingers over the spigot and spray you in the face when you try to take a drink. Good times.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="45">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3120" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3120">
+    <command xml:space="preserve">look at water fountain</command>
+    <result xml:space="preserve">
+It&apos;s just a water fountain. Aside from the water usually seeming to hit your face instead of your mouth, there&apos;s nothing special about it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="44">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e32e0">
+    <command xml:space="preserve">feel</command>
+    <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="59">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3350" />
+      <child nodeId="node-0x2e34a0" />
+      <child nodeId="node-0x2e2d90" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2d90">
+    <command xml:space="preserve">feel</command>
+    <result xml:space="preserve">(the wet pair of pants)
+You feel nothing unexpected.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="47">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e34a0">
+    <command xml:space="preserve">feel me</command>
+    <result xml:space="preserve">If you think that&apos;ll help.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3510" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3510">
+    <command xml:space="preserve">feel myself</command>
+    <result xml:space="preserve">If you think that&apos;ll help.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3580" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3580">
+    <command xml:space="preserve">feel children</command>
+    <result xml:space="preserve">Keep your hands to yourself!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e35f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e35f0">
+    <command xml:space="preserve">feel doors</command>
+    <result xml:space="preserve">You feel nothing unexpected.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2cb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2cb0">
+    <command xml:space="preserve">feel school</command>
+    <result xml:space="preserve">You feel nothing unexpected.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2d20" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2d20">
+    <command xml:space="preserve">feel pants</command>
+    <result xml:space="preserve">You feel nothing unexpected.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="54">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e3350">
+    <command xml:space="preserve">feel pair of pants</command>
+    <result xml:space="preserve">You feel nothing unexpected.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="59">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e33c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e33c0">
+    <command xml:space="preserve">feel pants</command>
+    <result xml:space="preserve">You feel nothing unexpected.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="59">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3430" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3430">
+    <command xml:space="preserve">feel a wet pair of pants</command>
+    <result xml:space="preserve">You feel nothing unexpected.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e21b0">
+    <command xml:space="preserve">wear pants</command>
+    <result xml:space="preserve">You&apos;re already wearing that!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2220" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2220">
+    <command xml:space="preserve">take off pants</command>
+    <result xml:space="preserve">You take off the wet pair of pants.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2350" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2350">
+    <command xml:space="preserve">wear pants</command>
+    <result xml:space="preserve">You put on the wet pair of pants.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x2866f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2866f0">
+    <command xml:space="preserve">wearing a pear of pants</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e23c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e23c0">
+    <command xml:space="preserve">wear a pair of pants</command>
+    <result xml:space="preserve">You&apos;re already wearing that!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2430" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2430">
+    <command xml:space="preserve">take off pants</command>
+    <result xml:space="preserve">You take off the wet pair of pants.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e24a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e24a0">
+    <command xml:space="preserve">wear a pair of pants</command>
+    <result xml:space="preserve">You put on the wet pair of pants.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="74">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e20f0">
+    <command xml:space="preserve">remove pants</command>
+    <result xml:space="preserve">You take off the wet pair of pants.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2140" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2140">
+    <command xml:space="preserve">wear pants</command>
+    <result xml:space="preserve">You put on the wet pair of pants.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e2290">
+    <command xml:space="preserve">look at water pistol</command>
+    <result xml:space="preserve">That&apos;s just the water pistol. Were you expecting something more special?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="31">YES</temporary>
+  </item>
+  <item nodeId="node-0x2867d0">
+    <command xml:space="preserve">look play structures</command>
+    <result xml:space="preserve">
+The playground offers a variety of activites for young children like yourself. There is a swing set, monkey bars, a slide, a seesaw, and even a small merry-go-round where the kids can spin so fast that they vomit.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="18">YES</temporary>
+  </item>
+  <item nodeId="node-0x286550">
+    <command xml:space="preserve">look at play structures</command>
+    <result xml:space="preserve">
+The playground offers a variety of activites for young children like yourself. There is a swing set, monkey bars, a slide, a seesaw, and even a small merry-go-round where the kids can spin so fast that they vomit.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+    <children>
+      <child nodeId="node-0x2865a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2865a0">
+    <command xml:space="preserve">look at children</command>
+    <result xml:space="preserve">
+The children all appear to be laughing at you. Why? Several of them seem to be pointing to your lower half. You notice that one child is holding a small water pistol.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+    <children>
+      <child nodeId="node-0x2865f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2865f0">
+    <command xml:space="preserve">look at water pistol</command>
+    <result xml:space="preserve">
+One of the children you recognize as Jim is holding this small water gun. Based on the size, it was probably quite easy for him to sneak into school.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+    <children>
+      <child nodeId="node-0x286660" />
+    </children>
+  </item>
+  <item nodeId="node-0x286660">
+    <command xml:space="preserve">look at pants</command>
+    <result xml:space="preserve">Jim shot your pants with the water gun so as to make it appear that you wet yourself. Classic.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+    <children>
+      <child nodeId="node-0x286750" />
+    </children>
+  </item>
+  <item nodeId="node-0x286750">
+    <command xml:space="preserve">cry</command>
+    <result xml:space="preserve">You cry like a little baby. Feel better, little baby?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e22e0">
+    <command xml:space="preserve">look at children</command>
+    <result xml:space="preserve">
+The children all appear to be laughing at you. Why? Several of them seem to be pointing to your lower half. You notice that one child is holding a small water pistol.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e27e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e27e0">
+    <command xml:space="preserve">look at water pistol</command>
+    <result xml:space="preserve">
+One of the children you recognize as Jim is holding this small water gun. Based on the size, it was probably quite easy for him to sneak into school.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2850" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2850">
+    <command xml:space="preserve">look down</command>
+    <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e28c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e28c0">
+    <command xml:space="preserve">look at pants</command>
+    <result xml:space="preserve">Jim shot your pants with the water gun so as to make it appear that you wet yourself. Classic.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2930" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2930">
+    <command xml:space="preserve">cry</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="34">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e3040">
+    <command xml:space="preserve">look school</command>
+    <result xml:space="preserve">
+Your school may as well be a big box made of bricks. There are only a few, small windows, and the building largely resembles a prison. Better in there than out here, though.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="29">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e29a0">
+    <command xml:space="preserve">look pants</command>
+    <result xml:space="preserve">Your pants are wet. Interesting... You don&apos;t remember wetting yourself. What&apos;s going on here?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e26d0" />
+      <child nodeId="node-0x2e2a10" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2a10">
+    <command xml:space="preserve">look swingset</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2a80" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2a80">
+    <command xml:space="preserve">school</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2af0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2af0">
+    <command xml:space="preserve">enter school</command>
+    <result xml:space="preserve">(first opening the double doors)
+
+School Hallway
+This is the southern end of your school&apos;s main hallway. Various doors in this part of the hall lead to classrooms, but most are closed and locked for recess. One door here leads east to the administrative wing, where the principal, guidance counselors, and other faculty members have offices. Your classroom is further to the north.
+
+A pair of double doors leads back out to the Playground.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2b60" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2b60">
+    <command xml:space="preserve">go playground</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2bd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2bd0">
+    <command xml:space="preserve">go to playground</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2c40" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2c40">
+    <command xml:space="preserve">enter doors</command>
+    <result xml:space="preserve">
+Playground
+You are standing in the playground of Lincoln Elementary School, where you are a student. Other children race around the school yard, brimming with the energy bestowed upon them from a school lunch composed almost entirely of starches and salt. A cacophony of screams and cries ring out across the twisted, metal spires of play structures that rise from the rubbery, plastic mulch. To the north lies the school and the relative safety of being indoors, where there are adults.
+
+A pair of double doors leads into the school.
+
+You can also see a group of children laughing at you here.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2660" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2660">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Playground
+You are standing in the playground of Lincoln Elementary School, where you are a student. Other children race around the school yard, brimming with the energy bestowed upon them from a school lunch composed almost entirely of starches and salt. A cacophony of screams and cries ring out across the twisted, metal spires of play structures that rise from the rubbery, plastic mulch. To the north lies the school and the relative safety of being indoors, where there are adults.
+
+A pair of double doors leads into the school.
+
+You can also see a group of children laughing at you here.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e26d0">
+    <command xml:space="preserve">look pistol</command>
+    <result xml:space="preserve">
+One of the children you recognize as Jim is holding this small water gun. Based on the size, it was probably quite easy for him to sneak into school.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+  </item>
+  <item nodeId="node-0x286500">
+    <command xml:space="preserve">feel pants</command>
+    <result xml:space="preserve">You feel nothing unexpected.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="60">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e2510">
+    <command xml:space="preserve">take water pistol</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="31">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2580" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2580">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a water pistol
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="31">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e25f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e25f0">
+    <command xml:space="preserve">look at water pistol</command>
+    <result xml:space="preserve">One of the children is holding this small water gun. Based on the size, it was probably quite easy for him to sneak into school.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="30">YES</temporary>
+  </item>
+  <item nodeId="node-0x2e2e00">
+    <command xml:space="preserve">say hello</command>
+    <result xml:space="preserve">(to yourself)
+There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="17">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e2e70" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e2e70">
+    <command xml:space="preserve">say hello to children</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="17">YES</temporary>
+    <children>
+      <child nodeId="node-0x2e3660" />
+    </children>
+  </item>
+  <item nodeId="node-0x2e3660">
+    <command xml:space="preserve">say hello to play structures</command>
+    <result xml:space="preserve">You can only do that to something animate.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="16">YES</temporary>
+  </item>
+</Skein>
